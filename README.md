@@ -1,6 +1,6 @@
-# Mina zkApp: Fail Proove
+# Mina zkApp: Fail Prove
 
-This sample project shows an error when running "proove" between local & berkeley mina
+This sample project shows an error when running "prove" between local & berkeley mina
 
 ## How to build
 
